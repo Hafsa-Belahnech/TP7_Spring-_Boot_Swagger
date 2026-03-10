@@ -7,7 +7,7 @@
 - Intégrer Swagger pour générer une documentation complète et claire des routes exposées par les contrôleurs REST
 
 # Résultats d'exécution :
-> Test des endpoints REST
+# Test des endpoints REST avec Postman
 - Test de l’ajout des étudiants (POST)
 <img width="963" height="907" alt="image" src="https://github.com/user-attachments/assets/1319bb8e-eb3e-4347-ad83-6ef40e78c32f" />
 <img width="953" height="1004" alt="image" src="https://github.com/user-attachments/assets/d68e0268-90c0-4bac-aef0-079cc7d40d0f" />
@@ -30,6 +30,9 @@
 
 - Tests unitaires avec JUnit 5 et Mockito
 <img width="1600" height="797" alt="image" src="https://github.com/user-attachments/assets/693e9b56-be88-40cf-a60c-9ab432bb3bee" />
+
+# Base de données dans phpmMyAdmin 
+<img width="1919" height="628" alt="image" src="https://github.com/user-attachments/assets/8c86a9b6-0566-4633-a8ab-5f73fd91e97f" />
 
 # Intégration de Swagger
 - Vidéo démonstrative
